@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TP3</string>
+
+    <string name="title_skipqueue">SkipQueue</string>
+    <string name="subtitle_skipqueue">Ne perdez plus de temps dans la file</string>
+    <string name="title_login">Connexion</string>
+    <string name="subtitle_login">Connectez-vous à votre compte</string>
+
+    <string name="hint_nom">Nom d\'affichage</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_confirm_password">Confirmer le mot de passe</string>
+
+    <string name="btn_register">S\'inscrire</string>
+    <string name="btn_login">Se connecter</string>
+    <string name="btn_have_account">J\'ai déjà un compte</string>
+    <string name="btn_guest">Continuer en invité</string>
+
+    <string name="err_name_empty">Le nom d\'affichage est obligatoire</string>
+    <string name="err_name_short">Le nom doit contenir au moins 3 caractères</string>
+    <string name="err_name_long">Le nom ne doit pas dépasser 30 caractères</string>
+
+    <string name="err_email_empty">L\'e-mail est obligatoire</string>
+    <string name="err_email_invalid">Format d\'e-mail invalide (exemple : nom@domaine.com)</string>
+
+    <string name="err_password_empty">Le mot de passe est obligatoire</string>
+    <string name="err_password_short">Le mot de passe doit contenir au moins 8 caractères</string>
+    <string name="err_password_no_letter">Ajoutez au moins une lettre</string>
+    <string name="err_password_no_digit">Ajoutez au moins un chiffre</string>
+
+    <string name="err_confirm_empty">Veuillez confirmer le mot de passe</string>
+    <string name="err_confirm_mismatch">Les mots de passe ne correspondent pas</string>
+
+    <string name="err_form_invalid">Corrigez les champs signalés en rouge</string>
+    <string name="msg_inscription_ok">Validation réussie</string>
+    <string name="msg_guest_mode">Mode invité (bientôt disponible)</string>
+
+    <!-- Profil -->
+    <string name="profil_avatar_desc">Photo de profil</string>
+    <string name="profil_nom_invite">Invité</string>
+    <string name="profil_nom_placeholder">Nom d\'affichage</string>
+    <string name="profil_email_placeholder">prenom@email.com</string>
+    <string name="profil_statut_invite">Compte invité</string>
+    <string name="profil_statut_inscrit">Compte inscrit</string>
+    <string name="profil_invitation_message">Créez un compte pour valider vos commandes</string>
+    <string name="profil_btn_creer_compte">Créer mon compte</string>
+    <string name="profil_option_commandes">Mes commandes</string>
+    <string name="profil_option_favoris">Mes favoris</string>
+    <string name="profil_option_parametres">Paramètres</string>
+    <string name="profil_btn_deconnexion">Se déconnecter</string>
+    <string name="profil_btn_supprimer">Supprimer mon compte</string>
+
+    <string name="toast_creer_compte">Création de compte : bientôt</string>
+    <string name="toast_commandes">Mes commandes : bientôt</string>
+    <string name="toast_favoris">Mes favoris : bientôt</string>
+    <string name="toast_parametres">Paramètres : bientôt</string>
+    <string name="toast_deconnexion">Déconnexion : bientôt</string>
+    <string name="toast_supprimer">Suppression du compte : bientôt</string>
+
+</resources>

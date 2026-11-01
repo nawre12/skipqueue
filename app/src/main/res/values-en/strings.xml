@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profil_avatar_desc">Profile picture</string>
+    <string name="profil_nom_invite">Guest</string>
+    <string name="profil_nom_placeholder">Display name</string>
+    <string name="profil_email_placeholder">firstname@email.com</string>
+    <string name="profil_statut_invite">Guest account</string>
+    <string name="profil_statut_inscrit">Registered account</string>
+    <string name="profil_invitation_message">Create an account to place your orders</string>
+    <string name="profil_btn_creer_compte">Create my account</string>
+    <string name="profil_option_commandes">My orders</string>
+    <string name="profil_option_favoris">My favorites</string>
+    <string name="profil_option_parametres">Settings</string>
+    <string name="profil_btn_deconnexion">Log out</string>
+    <string name="profil_btn_supprimer">Delete my account</string>
+
+    <string name="toast_creer_compte">Account creation: coming soon</string>
+    <string name="toast_commandes">My orders: coming soon</string>
+    <string name="toast_favoris">My favorites: coming soon</string>
+    <string name="toast_parametres">Settings: coming soon</string>
+    <string name="toast_deconnexion">Log out: coming soon</string>
+    <string name="toast_supprimer">Account deletion: coming soon</string>
+</resources>

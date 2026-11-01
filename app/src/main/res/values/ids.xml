@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main" type="id" />
+    <item name="guideline_start" type="id" />
+    <item name="guideline_end" type="id" />
+    <item name="tv_title" type="id" />
+    <item name="tv_subtitle" type="id" />
+    <item name="til_nom" type="id" />
+    <item name="et_nom" type="id" />
+    <item name="til_email" type="id" />
+    <item name="et_email" type="id" />
+    <item name="til_password" type="id" />
+    <item name="et_password" type="id" />
+    <item name="til_confirm_password" type="id" />
+    <item name="et_confirm_password" type="id" />
+    <item name="btn_register" type="id" />
+    <item name="btn_have_account" type="id" />
+    <item name="btn_guest" type="id" />
+</resources>

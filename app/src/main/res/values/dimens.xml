@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="profil_avatar_size">96dp</dimen>
+    <dimen name="profil_avatar_padding">16dp</dimen>
+    <dimen name="profil_spacing_small">8dp</dimen>
+    <dimen name="profil_spacing_medium">16dp</dimen>
+    <dimen name="profil_spacing_large">24dp</dimen>
+    <dimen name="profil_option_height">56dp</dimen>
+</resources>
